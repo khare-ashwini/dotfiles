@@ -1,0 +1,15 @@
+[git-up "bundler"]
+	check = true
+[alias]
+	c = commit -am
+	p = push
+	s = status 
+	co = checkout 
+	f = fetch
+	r = rebase
+[color]
+	ui = always
+#autocorrect
+[help]
+	autocorrect = 1
+
