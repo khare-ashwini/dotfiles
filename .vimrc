@@ -200,7 +200,7 @@ endif
 set shm+=atmI
 
 " Universal clipboard
-" set clipboard=unnamed
+set clipboard=unnamed
 " share windows clipboard
 " set clipboard+=unnamed 
 
