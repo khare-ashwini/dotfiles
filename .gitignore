@@ -1,0 +1,10 @@
+# Because this is everywhere
+.DS_Store                      
+# Because bytecode.
+.pyc
+# Because '' == 0 : false  and 0 == '' : true  in js. Crazy shit
+node_modules
+# Because hotfix 
+debug.js
+debug.py
+
